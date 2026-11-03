@@ -72,3 +72,4 @@ def customAuthProfileLoginWriteOverride(userProfile, lambdaRequestEvent):
 
     #########################################################################################################
     return userProfile
+# E2E-040 fork lane change: customer note (no behaviour change)
