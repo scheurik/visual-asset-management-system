@@ -193,3 +193,4 @@ This project is licensed under the Apache-2.0 License. See [LICENSE](./LICENSE) 
 Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+<!-- E2E-050 simulated upstream patch on the vendor branch (docs-only, untagged) -->
