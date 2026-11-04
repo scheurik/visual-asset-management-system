@@ -74,3 +74,4 @@ def customAuthProfileLoginWriteOverride(userProfile, lambdaRequestEvent):
     return userProfile
 # E2E-040 fork lane change: customer note (no behaviour change)
 # E2E-050 fork lane change: second customer note, fed through the S3 source (no behaviour change)
+# E2E-050 fork lane change: third customer note, home on GitHub (no behaviour change)
