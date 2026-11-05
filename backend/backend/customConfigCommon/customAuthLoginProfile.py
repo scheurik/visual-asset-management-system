@@ -82,3 +82,4 @@ def customAuthProfileLoginWriteOverride(userProfile, lambdaRequestEvent):
 # E2E-050 fork lane change: eighth customer note, the build whose dev test fails and rolls back (no behaviour change)
 # E2E-050 fork lane change: ninth customer note, dev rollback on a failing customer hook (no behaviour change)
 # E2E-050 fork lane change: tenth customer note, green build in the bundle store for the B-050-21 rollback (no behaviour change)
+# E2E-050 fork lane change: eleventh customer note, the build whose dev test fails and rolls back from the bundle store (no behaviour change)
