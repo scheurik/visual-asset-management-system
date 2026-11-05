@@ -78,3 +78,4 @@ def customAuthProfileLoginWriteOverride(userProfile, lambdaRequestEvent):
 # E2E-050 fork lane change: fourth customer note, picked up by the scheduled watch (no behaviour change)
 # E2E-050 fork lane change: fifth customer note, the build whose dev test fails and rolls back (no behaviour change)
 # E2E-050 fork lane change: sixth customer note, dev rollback test with the bundled VamsCLI (no behaviour change)
+# E2E-050 fork lane change: seventh customer note, dev -> test -> prod through the approvals (no behaviour change)
