@@ -86,3 +86,4 @@ def customAuthProfileLoginWriteOverride(userProfile, lambdaRequestEvent):
 # E2E-050 fork lane change: twelfth customer note, fresh execution for the test and prod gates after the quota raise (no behaviour change)
 # E2E-050 fork lane change: thirteenth customer note, test and prod gates with the B-050-27 smoke fix (no behaviour change)
 # E2E-050 fork lane change: fourteenth customer note, test and prod gates with core patch CP-1210 (no behaviour change)
+# E2E-050 fork lane change: fifteenth customer note, prod gate after IT package prod-3 (no behaviour change)
